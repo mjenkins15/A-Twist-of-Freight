@@ -1,0 +1,11 @@
+NAME,TMODE_LABEL,YEAR,TMILE,TMILEP,AVGMILE,TMILE_S,TMILEP_S,AVGMILE_S,GEO_ID,TMODE,GEO_ID_F
+United States,All modes,2017,3130697,100,621,4.5,0,2.2,0100000US,1,null
+United States,Truck,2017,1347240,43,186,0.9,1.8,3.7,0100000US,3,null
+United States,Rail,2017,1460158,46.6,969,8.4,1.7,4.1,0100000US,6,null
+United States,Inland water,2017,127749,4.1,576,18.2,0.6,22.4,0100000US,8,null
+United States,Great Lakes,2017,35191,1.1,602,29,0.3,13.2,0100000US,9,null
+United States,Deep sea,2017,53854,1.7,141,16.8,0.3,8.1,0100000US,10,null
+United States,Air ,2017,6560,0.2,1006,6,Z,9.4,0100000US,11,null
+United States,Pipeline,2017,S,S,S,S,S,S,0100000US,12,null
+United States,"Parcel, U.S.P.S. or courier",2017,27063,0.9,886,1.4,Z,2.1,0100000US,14,null
+United States,Other modes,2017,126,Z,1,35.8,Z,0,0100000US,19,null
